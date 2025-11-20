@@ -1,7 +1,7 @@
 * Solve linear regression using numpy:
-    ** In closed form
-    ** Using batch gradient descent
-    ** Using stochastic gradient descent
+    * In closed form
+    * Using batch gradient descent
+    * Using stochastic gradient descent
 
 * Key points:
     ** Too big a learning rate causes divergence
